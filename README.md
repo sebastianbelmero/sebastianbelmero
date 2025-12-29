@@ -22,19 +22,19 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### About Me
 
-I am a **Full-Stack Software Engineer** based in Indonesia with over 2 years of experience building scalable applications. [cite_start]Currently, I am an **IT Intern at PT GS Battery**, focusing on Desktop Apps (C#), RPA implementation, and IoT ecosystems[cite: 15, 18, 19].
+I am a **Full-Stack Software Engineer** based in Indonesia with over 2 years of experience building scalable applications. Currently, I am an **IT Intern at PT GS Battery**, focusing on Desktop Apps (C#), RPA implementation, and IoT ecosystems.
 
-[cite_start]Previously, I specialized in **Vue.js** frontend architecture and **Laravel** backend systems for various companies and institutions[cite: 22, 31]. My passion lies in integrating AI APIs (Gemini) and solving complex problems through clean code.
+Previously, I specialized in **Vue.js** frontend architecture and **Laravel** backend systems for various companies and institutions. My passion lies in integrating AI APIs (Gemini) and solving complex problems through clean code.
 
-- 🔭 I’m currently working on **RPA workflows & IoT Automation**
-- 🌱 I’m currently learning **Advanced .NET Ecosystems & System Architecture**
-- [cite_start]🎓 Education: **Bachelor of Information Technology**, University of North Sumatra (GPA 3.58) [cite: 11, 12]
+- I’m currently working on **RPA workflows & IoT Automation**
+- I’m currently learning **Advanced .NET Ecosystems & System Architecture**
+- Education: **Bachelor of Information Technology**, University of North Sumatra (GPA 3.58) 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -49,27 +49,14 @@ I am a **Full-Stack Software Engineer** based in Indonesia with over 2 years of 
 
 ---
 
-### 🚀 Professional Experience Highlights
+### Professional Experience Highlights
 
 * **IT Intern @ PT GS Battery** (Nov 2025 - Present)
-    * [cite_start]Developing internal desktop apps (C#) & RPA automation[cite: 18, 19].
+    * Developing internal desktop apps (C#) & RPA automation.
 * **Vue.js Developer @ PT. Maler Kreasi Indonesia** (Aug 2025 - Nov 2025)
-    * [cite_start]Spearheaded frontend for comprehensive community management apps[cite: 22, 26].
+    * Spearheaded frontend for comprehensive community management apps.
 * **Part-Time Programmer @ USU** (Jul 2024 - Dec 2024)
-    * [cite_start]Developed "Mekar" employee performance system using Laravel & Vue.js[cite: 31, 34].
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianbelmero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sebastian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianbelmero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianbelmero&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+    * Developed "Mekar" employee performance system using Laravel & Vue.js.
 
 ---
 
